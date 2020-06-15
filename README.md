@@ -2,7 +2,7 @@
 
 This repo contains the early works of my Machine Learning projects. 
 
-Theses datasets have allowed me to experiement with various Machine Learning tools and gain an intuition on how they work. 
+The datasets have allowed me to experiement with various Machine Learning tools and gain an intuition on how they work. 
 
 Across the entire repos I have used:
 
