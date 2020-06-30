@@ -26,3 +26,7 @@ Across the entire repo I have applied:
 - Wide and Deep Neural Networks
 - Functional Neural Networks
 - Callback Methods and Hyperparameter Tuning
+- Optimization Functions
+- Learning Rate Scheduling
+- Regularization in Deep Neural Networks
+- Writing Custom TensorFlow Layers, Functions, Metrics, and Losses
