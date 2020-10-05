@@ -1,0 +1,7 @@
+.whl
+*checkpoint.ipynb
+.ipynb_checkpoints/
+*ipynb_checkpoint
+*checkpoint.ipynb
+.h5
+.idea/
